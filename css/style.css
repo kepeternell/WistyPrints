@@ -549,10 +549,6 @@
 				vertical-align: middle;
 			}
 
-			ul.actions img {
-				fill: #09293c;
-			}
-
 				ul.actions li:last-child {
 					padding-right: 0;
 				}
@@ -978,7 +974,7 @@
 
 	#banner {
 		background-color: #666666;
-		background-image: url("../images/brush.jpg");
+		background-image: url("../images/brush2.png");
 		background-size: cover;
 		background-position: center center;
 		background-repeat: no-repeat;
@@ -1001,6 +997,10 @@
 		#banner .inner {
 			position: relative;
 			z-index: 1;
+		}
+
+		#banner .inner h2 {
+			font-size: 5em;
 		}
 
 			#banner .inner :last-child {
