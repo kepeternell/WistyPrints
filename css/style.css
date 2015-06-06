@@ -549,6 +549,10 @@
 				vertical-align: middle;
 			}
 
+			ul.actions img {
+				fill: #09293c;
+			}
+
 				ul.actions li:last-child {
 					padding-right: 0;
 				}
