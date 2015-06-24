@@ -397,6 +397,15 @@
 		padding: 3em 2em;
 	}
 
+	.box img {
+		position: absolute;
+    	margin-bottom: 2em;
+    	margin-top: -1em;
+		padding: 2.5em 1.5em;
+		width: 100px;
+    	z-index: 1;
+	}
+
 		.box > :last-child,
 		.box > :last-child > :last-child,
 		.box > :last-child > :last-child > :last-child {
