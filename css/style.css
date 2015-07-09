@@ -486,7 +486,7 @@
 		}
 
 			.image.fit img {
-				display: block;
+				display: inline-block;
 				width: 100%;
 			}
 
