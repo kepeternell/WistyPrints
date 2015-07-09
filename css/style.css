@@ -402,7 +402,7 @@
     	margin-bottom: 2em;
     	margin-top: -1em;
 		padding: 2.5em 1.5em;
-		width: 90px;
+		width: 9%;
     	z-index: 1;
 	}
 
@@ -556,7 +556,7 @@
 			ul.actions li {
 				display: inline-block;
 				padding: 0 1em 0 0;
-				vertical-align: top;
+				vertical-align: middle;
 			}
 
 				ul.actions li:last-child {
